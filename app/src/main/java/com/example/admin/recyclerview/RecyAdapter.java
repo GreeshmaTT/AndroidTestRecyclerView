@@ -69,10 +69,7 @@ public class RecyAdapter extends RecyclerView.Adapter<RecyAdapter.MyViewHolder> 
       //  myViewHolder.FoodImage.setImageResource(FoodImageId);
 
         Log.e("photobind",":"+modelClass.getFoodImage());
-
-
-
-    }
+        }
 
     @Override
     public int getItemCount() {
