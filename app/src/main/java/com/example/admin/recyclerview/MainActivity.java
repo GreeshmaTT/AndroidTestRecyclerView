@@ -30,11 +30,11 @@ public class MainActivity extends AppCompatActivity {
         layoutManager.setOrientation(LinearLayoutManager.VERTICAL);
         recylerView.setLayoutManager(layoutManager);
 
-        ModelClass m1 = new ModelClass();
-        m1.setName("Hotel1");
-        m1.setFoodItem("Dosa");
-        m1.setFoodImage("https://media.istockphoto.com/photos/chef-in-hotel-or-restaurant-kitchen-cooking-only-hands-picture-id626311516");
-        model.add(m1);
+//        ModelClass m1 = new ModelClass();
+//        m1.setName("Hotel1");
+//        m1.setFoodItem("Dosa");
+//        m1.setFoodImage("https://media.istockphoto.com/photos/chef-in-hotel-or-restaurant-kitchen-cooking-only-hands-picture-id626311516");
+//        model.add(m1);
 
         ModelClass m2 = new ModelClass();
         m2.setName("Hotel2");
